@@ -1,0 +1,74 @@
+/*HEADER*/
+body {
+	background:#F3DFBF;
+}
+
+
+.banner .display-3 {font-weight: bold;}
+
+.headerimg{
+	overflow: hidden;
+	max-width: 100%;
+	height: 100px;
+}
+
+.navbar{
+	background: #F7DC5F;
+}
+
+.links{
+	color: #000000;
+	font-weight: bold;
+}
+.btn {
+	align-content: center;
+}
+.searchs{
+	color: #614102;
+}
+
+/*END OF HEADER */
+
+/*CUREENT EVENTS*/
+.banner{
+	background:url("../images/Profile Background.jpg") no-repeat center; 
+	background-size:cover; 
+	background-position-y: 0px;
+}
+
+.w-80{
+	margin-left: 80px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	width: auto;
+	overflow: hidden;
+}
+
+.carousel-item p {
+	margin-right: 100px;
+	color:#000000;
+	font-size: 20px;
+}
+
+.reads{
+	background:#64400B;
+	color: #FFFFFF
+}
+
+.upcoming{
+	text-align: center;
+	font-weight: bold;
+	font-size: 60px;
+	
+}
+/*END OF EVENTS*/
+
+@media (min-width: 576px)
+
+.client {background:#544638;}
+.client h1 {font-size: 4rem; font-weight: bold;color: #FFFFFF}
+
+.footer {background:url("../images/Footer bg.jpg");}
+.footer .list-group-item{padding: 0.20rem 0rem; border: 0; background: transparent;}
+.footer i {font-size: 22px;}
+.footer a{color: #000000;}
